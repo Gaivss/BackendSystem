@@ -1,0 +1,12 @@
+com\java\service\role\impl\RoleService.class
+com\java\service\product\IProductService.class
+com\java\service\permission\IPermissionService.class
+com\java\service\orders\impl\OrderService.class
+com\java\service\product\impl\ProductService.class
+com\java\service\systemLog\impl\SysLogService.class
+com\java\service\permission\impl\PermissionService.class
+com\java\service\user\IUserService.class
+com\java\service\user\impl\UserService.class
+com\java\service\orders\IOrdersService.class
+com\java\service\role\IRoleService.class
+com\java\service\systemLog\ISysLogService.class

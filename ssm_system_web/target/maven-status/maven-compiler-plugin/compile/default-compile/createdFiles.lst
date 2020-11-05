@@ -1,0 +1,7 @@
+com\java\smm\controller\ProductController.class
+com\java\smm\controller\OrdersController.class
+com\java\smm\controller\UserController.class
+com\java\smm\controller\LogAop.class
+com\java\smm\controller\SysLogController.class
+com\java\smm\controller\RoleController.class
+com\java\smm\controller\PermissionController.class

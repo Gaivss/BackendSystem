@@ -1,0 +1,8 @@
+com\java\domain\Member.class
+com\java\domain\Orders.class
+com\java\domain\Traveller.class
+com\java\domain\Product.class
+com\java\domain\Role.class
+com\java\domain\UserInfo.class
+com\java\domain\Permission.class
+com\java\domain\SysLog.class
